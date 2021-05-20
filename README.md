@@ -5,10 +5,16 @@ The Human Activity Recognition database was built from the recordings of 30 stud
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities:
 
 1.WALKING
+
 2.WALKING UPSTAIRS
+
 3.WALKING DOWNSTAIRS
+
 4.SITTING
+
 5.STANDING
+
 6.LAYING
+
 
  by wearing a smartphone (Samsung Galaxy S II) on the waist.
